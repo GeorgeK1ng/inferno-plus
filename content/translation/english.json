@@ -18,6 +18,5 @@
 	"hero.core.pyre.specialty.description" : "Increases the Attack and Defense skills of any Cannon by 5% for every 6 levels (rounded up).",
 	"hero.core.pyre.specialty.name" : "Cannon",
 	"hero.core.pyre.specialty.tooltip" : "Artillery Bonus: Cannon",
-	"mod.description" : "Rebalances Inferno with new creature abilities, improved heroes, revised spells, and town changes.",
 	"mod.name" : "Inferno Plus"
 }
