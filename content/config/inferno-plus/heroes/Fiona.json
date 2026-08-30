@@ -33,7 +33,7 @@
 		"texts" : {
 			"specialty" : {
 				"name" : "Starvation",
-				"description" : "Hell hounds and cerberi under Fiona's control will attack additional times in order to sate their hunger. Maximum number of attacks goes up by one for every three levels.",
+				"description" : "Hell Hounds and Cerberi under Fiona's command can make additional attacks to sate their hunger. Their maximum number of attacks increases by one for every three levels Fiona gains.",
 				"tooltip" : "Creature Bonus: Extra Hunger"
 			}
 		}
