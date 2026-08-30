@@ -1,13 +1,28 @@
 {
-	"name" : "inferno-plus",
-	"description" : "A mod to make Inferno less Bleh.",
+	"name" : "Inferno Plus",
 	"author" : "nineGardens",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
 	"contact" : "alastair_jamieson-lane@protonmail.com",
 	"version" : "0.0.2",
 	"modType" : "Other",
-	"language" : "english",
+	"changelog" : {
+		"0.0.2" : [
+			"Added Czech translation",
+			"Added detailed English and Czech descriptions",
+			"Updated default English text",
+			"Fixed text typos and terminology"
+		],
+		"0.0.1" : [
+			"Initial release"
+		]
+	},
+	"czech" : {
+		"name" : "Peklo Plus",
+		"translations" : [
+			"translation/czech.json"
+		]
+	},
 	"depends" : [
 		"hota",
 		"hota.cannon"

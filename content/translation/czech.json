@@ -1,0 +1,23 @@
+{
+	"building.core.dungeon.blacksmith.description" : "V kovárně si můžeš zakoupit vozík se střelivem.",
+	"building.core.dungeon.blacksmith.name" : "Kovárna",
+	"building.core.inferno.blacksmith.description" : "V kovárně si můžeš zakoupit balistu.",
+	"building.core.inferno.blacksmith.name" : "Kovárna",
+	"building.core.inferno.horde1.description" : "Porodnice zvyšuje týdenní nárůst ďáblíků a rarášků o 12.",
+	"creatures.core.cerberus.bonus.hungerIcon" : "{Hladovec}\nPokud svým prvním útokem nikoho nezabije, zaútočí znovu.",
+	"creatures.core.familiar.bonus.spelldamageIcon" : "{Pouto rarášků}\nKaždý rarášek zvyšuje poškození všech přímých útočných kouzel o 1.",
+	"creatures.core.hellHound.bonus.hungerIcon" : "{Hladovec}\nPokud svým prvním útokem nikoho nezabije, zaútočí znovu.",
+	"hero.core.fiona.specialty.description" : "Pekelní psi a kerbeři pod Fioniným velením mohou kvůli ukojení hladu útočit opakovaně. Za každé tři úrovně Fiony se jejich maximální počet útoků zvýší o jeden.",
+	"hero.core.fiona.specialty.name" : "Hladovění",
+	"hero.core.fiona.specialty.tooltip" : "Bonus jednotky: Silnější hlad",
+	"hero.core.olema.specialty.description" : "Olema sesílá Smůlu na expertní úrovni. Její Smůla snižuje štěstí jednotky o 4 namísto 2.",
+	"hero.core.olema.specialty.name" : "Smůla",
+	"hero.core.olema.specialty.tooltip" : "Bonus kouzla: Smůla",
+	"hero.core.pyre.biography" : "Skutečné jméno Pyre nikdo nezná, ale šíří se fámy, že byla členkou kultu humanistů. To byl nečestný kult, usilující o vymýcení všeho nelidského obyvatelstva z Erathie. Jen ona sama ví, proč se dala do služeb ďáblů z Eeofolu.",
+	"hero.core.pyre.name" : "Pyre",
+	"hero.core.pyre.specialty.description" : "Zvyšuje útok a obranu všech děl o 5 % za každých 6 úrovní (zaokrouhleno nahoru).",
+	"hero.core.pyre.specialty.name" : "Dělo",
+	"hero.core.pyre.specialty.tooltip" : "Bonus k dovednosti: Dělo",
+	"mod.description" : "Vyvažuje Peklo pomocí nových schopností jednotek, vylepšených hrdinů, upravených kouzel a změn města.",
+	"mod.name" : "Peklo Plus"
+}

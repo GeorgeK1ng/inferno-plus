@@ -39,8 +39,8 @@
 
 		"texts" : {
 			"specialty" : {
-				"name" : "misfortune",
-				"description" : "Olema always casts Misfortune are expert level. Misfortune decreases a unit's Luck by -4 rather than -2.).",
+				"name" : "Misfortune",
+				"description" : "Olema casts Misfortune at Expert level. Her Misfortune reduces a unit's Luck by 4 instead of 2.",
 				"tooltip" : "Spell Bonus: Misfortune"
 			}
 		}
