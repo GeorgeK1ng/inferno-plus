@@ -10,9 +10,8 @@
 			"core:inferno" : 3
 		},
 		"graphics" : {
-		            "iconBook": "inferno-plus/icons/spells/DDfireBook.png",
-			    "iconScroll": "inferno-plus/icons/spells/DDfireScroll.png"
-	        },
-
+			"iconBook" : "inferno-plus/icons/spells/DDfireBook.png",
+			"iconScroll" : "inferno-plus/icons/spells/DDfireScroll.png"
+		}
 	}
 }

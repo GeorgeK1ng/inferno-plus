@@ -1,7 +1,8 @@
 {
 	"core:inferno" : {
-		"town":{ "buildings":{
-		"blacksmith" : {
+		"town" : {
+			"buildings" : {
+				"blacksmith" : {
 					"name" : "Blacksmith",
 					"description" : "The Blacksmith provides your armies with ballista.",
 					"cost" : {
@@ -10,22 +11,25 @@
 					},
 					"warMachine" : "ballista"
 				},
-		"horde1" :{
-			"description" : "The Birthing pools increase imp and familiar production by 12.",
-			"requires" : ["special4"],
-			"cost" : {
+				"horde1" : {
+					"description" : "The Birthing pools increase imp and familiar production by 12.",
+					"requires" : [
+						"special4"
+					],
+					"cost" : {
 						"mercury" : 1,
 						"gold" : 500,
 						"sulfur" : 1
 					},
-			"bonuses": [
+					"bonuses" : [
 						{
-							"type": "CREATURE_GROWTH",
-							"subtype": "creatureLevel1",
-							"val": 4
+							"type" : "CREATURE_GROWTH",
+							"subtype" : "creatureLevel1",
+							"val" : 4
 						}
-					],
+					]
+				}
+			}
 		}
-		}}
 	}
 }

@@ -1,7 +1,7 @@
 {
-    "core:damage" : {
-        "patches" : {
-            "append" : "patches/impDamageTest"
-        }
-    }
+	"core:damage" : {
+		"patches" : {
+			"append" : "patches/impDamageTest"
+		}
+	}
 }

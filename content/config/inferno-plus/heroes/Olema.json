@@ -1,17 +1,19 @@
 {
-	"core:olema" :{
-		"skills":[
-		         {
+	"core:olema" : {
+		"skills" : [
+			{
 				"level" : "basic",
 				"skill" : "fireMagic"
-		        },
+			},
 			{
 				"level" : "basic",
 				"skill" : "ballistics"
 			}
 		],
-    
-		"spellbook": ["misfortune"],
+
+		"spellbook" : [
+			"misfortune"
+		],
 
 		"specialty#override" : {
 			"bonuses" : {
@@ -28,13 +30,13 @@
 			}
 		},
 
-		"images": {
-			"specialtySmall": "inferno-plus/icons/specialties/misfortune/specialtySmall.png",
-			"specialtyLarge": "inferno-plus/icons/specialties/misfortune/specialtyLarge.png",
-			"large": "HPL059DM.PCX",
-			"small": "HPS059DM.PCX"
+		"images" : {
+			"specialtySmall" : "inferno-plus/icons/specialties/misfortune/specialtySmall.png",
+			"specialtyLarge" : "inferno-plus/icons/specialties/misfortune/specialtyLarge.png",
+			"large" : "HPL059DM.PCX",
+			"small" : "HPS059DM.PCX"
 		},
-		
+
 		"texts" : {
 			"specialty" : {
 				"name" : "misfortune",
@@ -43,6 +45,4 @@
 			}
 		}
 	}
-
-
 }

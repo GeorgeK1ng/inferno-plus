@@ -1,0 +1,22 @@
+{
+	"building.core.dungeon.blacksmith.description" : "The Blacksmith provides your armies with Ammo Carts.",
+	"building.core.dungeon.blacksmith.name" : "Blacksmith",
+	"building.core.inferno.blacksmith.description" : "The Blacksmith provides your armies with ballista.",
+	"building.core.inferno.blacksmith.name" : "Blacksmith",
+	"building.core.inferno.horde1.description" : "The Birthing pools increase imp and familiar production by 12.",
+	"creatures.core.cerberus.bonus.hungerIcon" : "{Hunger}\n If the cerberi do not kill anything with their first attack, they will attack again.",
+	"creatures.core.familiar.bonus.spelldamageIcon" : "{Familiar's Bond}\nEach Familiar grants +1 Damage on all damage spells.",
+	"creatures.core.hellHound.bonus.hungerIcon" : "{Hunger}\n If the hell hounds do not kill anything with their first attack, they will attack again",
+	"hero.core.fiona.specialty.description" : "Hell hounds and cerberi under Fiona's control will attack additional times in order to sate their hunger. Maximum number of attacks goes up by one for every three levels.",
+	"hero.core.fiona.specialty.name" : "Starvation",
+	"hero.core.fiona.specialty.tooltip" : "Creature Bonus: Extra Hunger",
+	"hero.core.olema.specialty.description" : "Olema always casts Misfortune are expert level. Misfortune decreases a unit's Luck by -4 rather than -2.).",
+	"hero.core.olema.specialty.name" : "misfortune",
+	"hero.core.olema.specialty.tooltip" : "Spell Bonus: Misfortune",
+	"hero.core.pyre.biography" : "No one knows Pyre's real name, but it is rumored that she was once a member of the Humanists, a foul cult bent on eradicating any non-human inhabitants of Erathia. Only she knows what motivates her to serve the Devils of Eeofol.",
+	"hero.core.pyre.name" : "Pyre",
+	"hero.core.pyre.specialty.description" : "Increases the Attack and Defense skills of any Cannon by 5% for every 6 levels (rounded up).",
+	"hero.core.pyre.specialty.name" : "Cannon",
+	"hero.core.pyre.specialty.tooltip" : "Artillery Bonus: Cannon",
+	"mod.name" : "inferno-plus"
+}

@@ -44,12 +44,12 @@
 		"config/inferno-plus/heroes/Xyron.json",
 		"config/inferno-plus/heroes/Zydar.json"
 	],
-	
+
 	"factions" : [
 		"config/inferno-plus/towns/Inferno.json",
 		"config/inferno-plus/towns/dungeon.json"
 	],
-	
+
 	"creatures" : [
 		"config/inferno-plus/creatures/familiar-append.json",
 		"config/inferno-plus/creatures/hellHound-append.json",

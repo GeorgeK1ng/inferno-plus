@@ -1,5 +1,3 @@
-# english
-
 This is a small practice mod designed to make Inferno more fun to play. 
 
 My goal is to make Inferno both more competative, and more *interesting*. In the base game too many of Inferno's units are only interesting after upgrade (gogs, hounds and pit fiends), and too many are just completely vanilla. At the same time, too many of their heros have actively janky specials (starting with spells they can't cast, which are also actively bad, for example). 
@@ -40,12 +38,3 @@ If you wish to get in touch and give feedback you can find me on the VCMI discor
 ALSO: Much thanks to Karyoplasma for help with the Imp code, and generally introducing me to the system. You are a legend.
 
 Have fun!
-
-
-
-
-
-
-
-
-
