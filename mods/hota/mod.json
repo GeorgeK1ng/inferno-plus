@@ -16,8 +16,7 @@
 		"hota",
 		"hota.cannon"
 	],
-	"softDepends" : [
-	],
+	"softDepends" : [],
 	"heroes" : [
 		"config/inferno-plus/heroes/Pyre.json"
 	]
