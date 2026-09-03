@@ -1,0 +1,24 @@
+{
+	"name" : "Inferno Plus HotA patch",
+	"description" : "Rebalance Pyre when used with HotA",
+	"author" : "nineGardens",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "alastair_jamieson-lane@protonmail.com",
+	"version" : "0.0.1",
+	"modType" : "Compatibility",
+	"changelog" : {
+		"0.0.1" : [
+			"Initial release"
+		]
+	},
+	"depends" : [
+		"hota",
+		"hota.cannon"
+	],
+	"softDepends" : [
+	],
+	"heroes" : [
+		"config/inferno-plus/heroes/Pyre.json"
+	]
+}

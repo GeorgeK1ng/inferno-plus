@@ -1,0 +1,19 @@
+{
+	"name" : "Blacksmith swap",
+	"description" : "Swap Dungeon and Inferno Blacksmith item",
+	"author" : "nineGardens",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "alastair_jamieson-lane@protonmail.com",
+	"version" : "0.0.1",
+	"modType" : "Mechanics",
+	"changelog" : {
+		"0.0.1" : [
+			"Initial release"
+		]
+	},
+	"factions" : [
+		"config/inferno-plus/towns/inferno.json",
+		"config/inferno-plus/towns/dungeon.json"
+	]
+}

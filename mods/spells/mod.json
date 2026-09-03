@@ -1,0 +1,24 @@
+{
+	"name" : "Spells rebalanace",
+	"description" : "Spells Rebalanced",
+	"author" : "nineGardens",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+	"contact" : "alastair_jamieson-lane@protonmail.com",
+	"version" : "0.0.1",
+	"modType" : "Spells",
+	"changelog" : {
+		"0.0.1" : [
+			"Initial release"
+		]
+	},
+	"spells" : [
+		"config/inferno-plus/spells/blind.json",
+		"config/inferno-plus/spells/dimensionDoor.json",
+		"config/inferno-plus/spells/fireball.json",
+		"config/inferno-plus/spells/fireShield.json",
+		"config/inferno-plus/spells/inferno.json",
+		"config/inferno-plus/spells/misfortune.json",
+		"config/inferno-plus/spells/slayer.json"
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"core:inferno" : {
+		"town" : {
+			"buildings" : {
+				"blacksmith" : {
+					"name" : "Blacksmith",
+					"description" : "The Blacksmith provides your armies with Ballistas.",
+					"cost" : {
+						"gold" : 1000,
+						"wood" : 5
+					},
+					"warMachine" : "ballista"
+				},
+				"horde1" : {
+					"description" : "The Birthing Pools increase Imp and Familiar growth by 12 per week.",
+					"requires" : [
+						"special4"
+					],
+					"cost" : {
+						"mercury" : 1,
+						"gold" : 500,
+						"sulfur" : 1
+					},
+					"bonuses" : [
+						{
+							"type" : "CREATURE_GROWTH",
+							"subtype" : "creatureLevel1",
+							"val" : 4
+						}
+					]
+				}
+			}
+		}
+	}
+}
